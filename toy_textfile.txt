@@ -1,1 +1,14 @@
 This is a toy text file.
+
+
+
+Lorem ipsum.
+
+
+
+I'm not inspired.
+
+
+
+// Let's pretend the below is a function call
+foo(a,b,c);
